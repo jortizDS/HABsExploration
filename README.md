@@ -13,7 +13,7 @@ The goal of this project is to:
 Provide a foundation for visualizing or analyzing chlorophyll a trends at Starved Rock.
 
 ## Data Source
-USGS NWIS (National Water Information System) via dataretrieval Python package.
+USGS NWIS (National Water Information System) via `dataretrieval` Python package.
 
 ## Tools Used
 - Python 
